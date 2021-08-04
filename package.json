@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-colours",
+  "version": "1.0.0",
+  "description": "Ethereum, Solidity &amp; Web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiralni/blockchain-colours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiralni/blockchain-colours/issues"
+  },
+  "homepage": "https://github.com/spiralni/blockchain-colours#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "truffle": "^5.4.3"
+  }
+}
